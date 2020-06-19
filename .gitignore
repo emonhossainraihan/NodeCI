@@ -1,3 +1,7 @@
 node_modules
 nohup.out
 .DS_Store
+
+# Redis server 
+
+Redis-x64-3.2.100.zip
